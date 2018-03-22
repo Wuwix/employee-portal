@@ -1,0 +1,32 @@
+[
+        {
+          "id": 45,
+          "firstName": "Wawrzyniec",
+          "lastName": "Rzeźniak",
+          "salary": 20000,
+          "locality": "Zamość",
+          "zipCode": "22-400",
+          "street": "Kilińskiego",
+          "streetNumber": 42
+        },
+        {
+          "id": 45,
+          "firstName": "Wawrzyniec",
+          "lastName": "Rzeźniak",
+          "salary": 20000,
+          "locality": "Zamość",
+          "zipCode": "22-400",
+          "street": "Kilińskiego",
+          "streetNumber": 42
+        },
+        {
+          "id": 45,
+          "firstName": "Wawrzyniec",
+          "lastName": "Rzeźniak",
+          "salary": 20000,
+          "locality": "Zamość",
+          "zipCode": "22-400",
+          "street": "Kilińskiego",
+          "streetNumber": 42
+        }
+      ]
