@@ -8,8 +8,8 @@ import 'rxjs/add/operator/catch';
 
 @Injectable()
 export class EmployeeService {
-    // private employeesUrl: string = './api/employees/employees.json'
-    private employeesUrl: string = 'http://localhost:8080/employee/getall'
+    private employeesUrl: string = './api/employees/employees.json'
+    // private employeesUrl: string = 'http://localhost:8080/employee/getall'
 
     constructor(private _http: HttpClient){
     }

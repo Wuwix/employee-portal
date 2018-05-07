@@ -34,7 +34,8 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr *ngFor = 'let employee of filteredEmployees'>
+                    <tr *ngFor = 'let employee of filteredEmployees'
+                        class="tr-middle">
                         <!-- <td>
                             <img *ngIf='showImage' 
                             [src]='product.imageUrl'
@@ -44,7 +45,10 @@
                         </td> -->
                         <td>{{employee.firstName}}</td>
                         <td>{{employee.lastName}}</td>
-                        <td>{{employee.salary}}</td>
+                        <!-- <td>{{employee.salary}}</td> -->
+                        <td><pm-progress-circle 
+                            [salary] = 'employee.salary'>
+                        </pm-progress-circle></td>
                         <td>{{employee.locality}}</td>
                         <td>{{employee.zipCode}}</td>
                         <td>{{employee.street}}</td>

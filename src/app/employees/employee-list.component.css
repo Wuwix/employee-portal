@@ -2,6 +2,9 @@
     background: linear-gradient(to bottom right, #424242, #593aff);
 }
 
+.tr-middle td {
+    vertical-align: middle;
+}
 /* thead {
     color: blue;
 } */

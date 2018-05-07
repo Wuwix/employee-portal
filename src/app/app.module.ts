@@ -6,12 +6,14 @@ import { HttpClientModule } from '@angular/common/http';
 
 import { AppComponent } from './app.component';
 import { EmployeeListComponent } from './employees/employee-list.component';
+import { ProgressCircleComponent } from './shared/progress-circle/progress-circle.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    EmployeeListComponent
+    EmployeeListComponent,
+    ProgressCircleComponent
   ],
   imports: [
     BrowserModule,

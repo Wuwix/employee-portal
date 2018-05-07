@@ -3,30 +3,30 @@
           "id": 45,
           "firstName": "Wawrzyniec",
           "lastName": "Rzeźniak",
-          "salary": 20000,
+          "salary": 6000,
           "locality": "Zamość",
           "zipCode": "22-400",
           "street": "Kilińskiego",
           "streetNumber": 42
         },
         {
-          "id": 45,
-          "firstName": "Wawrzyniec",
+          "id": 46,
+          "firstName": "Maria",
           "lastName": "Rzeźniak",
           "salary": 20000,
           "locality": "Zamość",
           "zipCode": "22-400",
           "street": "Kilińskiego",
-          "streetNumber": 42
+          "streetNumber": 41
         },
         {
-          "id": 45,
-          "firstName": "Wawrzyniec",
+          "id": 457,
+          "firstName": "Marek",
           "lastName": "Rzeźniak",
-          "salary": 20000,
+          "salary": 10000,
           "locality": "Zamość",
           "zipCode": "22-400",
           "street": "Kilińskiego",
-          "streetNumber": 42
+          "streetNumber": 33
         }
       ]
