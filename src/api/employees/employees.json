@@ -14,9 +14,9 @@
           "firstName": "Maria",
           "lastName": "Rzeźniak",
           "salary": 20000,
-          "locality": "Zamość",
-          "zipCode": "22-400",
-          "street": "Kilińskiego",
+          "locality": "Sitno",
+          "zipCode": "22-417",
+          "street": "Rozdoly",
           "streetNumber": 41
         },
         {
@@ -24,9 +24,9 @@
           "firstName": "Marek",
           "lastName": "Rzeźniak",
           "salary": 10000,
-          "locality": "Zamość",
-          "zipCode": "22-400",
-          "street": "Kilińskiego",
-          "streetNumber": 33
+          "locality": "Krasnobród",
+          "zipCode": "22-440",
+          "street": "Szur",
+          "streetNumber": 22
         }
       ]

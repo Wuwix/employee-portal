@@ -1,10 +1,22 @@
 .panel-heading {
-    background: linear-gradient(to bottom right, #424242, #593aff);
+    background: linear-gradient(to bottom right, #000000, #888888);
+    padding: 0.1px 15px;
 }
 
+h3 {
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
 .tr-middle td {
     vertical-align: middle;
 }
-/* thead {
-    color: blue;
-} */
+
+.panel-primary{ 
+    border-color: transparent;
+}
+.panel {
+    box-shadow: 0 0 0 0;
+}
+.table-responsive {
+    border: 0px;
+}
